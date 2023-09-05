@@ -1,0 +1,4 @@
+repository "Collision Sphere@ssl://chickenbilibili@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
